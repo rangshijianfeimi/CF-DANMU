@@ -1,4 +1,4 @@
-name: Fork Sync
+name: Upstream Sync
 
 permissions:
     contents: write
